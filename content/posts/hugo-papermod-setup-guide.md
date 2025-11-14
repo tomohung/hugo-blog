@@ -2,6 +2,7 @@
 date: '2025-11-14T11:56:03+08:00'
 draft: false
 title: 'Hugo 靜態網站架設教學：從零開始打造你的 Blog'
+tags: ["教學"]
 ---
 
 # Hugo + PaperMod 主題快速安裝指南

@@ -6,6 +6,17 @@ params:
   ShowReadingTime: true
   hideSummary: true
   ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
 
 caches:
   images:

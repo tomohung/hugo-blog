@@ -7,16 +7,28 @@ params:
   hideSummary: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 menu:
   main:
     - identifier: archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
 
 caches:
   images:

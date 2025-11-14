@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T11:56:03+08:00'
-draft: true
+draft: false
 title: 'Hugo 靜態網站架設教學：從零開始打造你的 Blog'
 ---
 
@@ -81,5 +81,5 @@ hugo new content content/posts/my-first-post.md
 
 ---
 
-安裝完成後，你就可以開始使用 `hugo server -D` 啟動本地開發伺服器，預覽你的網站了！
+安裝完成後，你就可以開始使用 `hugo server` 啟動本地開發伺服器，預覽你的網站了！
 

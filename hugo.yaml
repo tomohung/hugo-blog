@@ -1,6 +1,6 @@
 baseURL: https://tomohung.github.io/
 languageCode: en-us
-title: Tomo's Blog
+title: Tomo 3.0
 theme: ["PaperMod"]
 params:
   ShowReadingTime: true

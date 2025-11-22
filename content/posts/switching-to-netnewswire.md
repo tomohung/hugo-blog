@@ -2,6 +2,7 @@
 date: '2025-11-22T11:57:51+08:00'
 draft: false
 title: '從 Feedly 到 NetNewsWire：選擇開源閱讀器的理由'
+tags: ["Web"]
 ---
 
 在[重新發現 RSS 重要性]({{< ref "posts/returning-to-rss-reader.md" >}})之後，我短暫使用了 Feedly 幾天，但逐漸發現一些問題。
@@ -48,4 +49,3 @@ Brent Simmons 的理念很簡單：NetNewsWire 是關於三件事——**開放�
 在這個充斥著訂閱制、廣告、演算法推薦的時代，NetNewsWire 提供了一個純粹的選擇：一個免費、開源、尊重隱私的 RSS 閱讀器。它讓我們可以自主掌控資訊來源，而不是被演算法餵食內容。
 
 如果你也想重新掌控自己的閱讀體驗，不妨試試 [NetNewsWire](https://netnewswire.com)。
-

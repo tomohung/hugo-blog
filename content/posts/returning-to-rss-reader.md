@@ -2,6 +2,7 @@
 date: '2025-11-22T10:33:35+08:00'
 draft: false
 title: '重新找回資訊主導權：是時候用 RSS 了'
+tags: ["Web"]
 ---
 
 前陣子意外看到 Wiwi 的文章《[你需要用 RSS，不要再拖了](https://wiwi.blog/blog/you-should-use-rss/)》，讓我突然意識到一個問題：我一直在網路上浪費時間。

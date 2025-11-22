@@ -2,6 +2,7 @@
 date: '2025-11-22T10:47:13+08:00'
 draft: false
 title: '其實 PTT 跟 YouTube 都支援 RSS 訂閱'
+tags: ["Web"]
 ---
 
 在這個[社群媒體演算法主宰]({{< ref "posts/returning-to-rss-reader.md" >}})的時代，很多人可能忘記了一個更直接、更純粹的內容訂閱方式:RSS。其實許多平台都保留了這個功能，只是沒有大張旗鼓地宣傳而已。
@@ -79,4 +80,3 @@ RSS(Really Simple Syndication)發展較早，在 1999 年就出現了，而 Atom
 [^2]: https://ittavern.com/difference-between-rss-and-atom/
 [^3]: https://danielmiessler.com/blog/atom-rss-why-we-should-just-call-them-feeds-instead-of-rss-feeds
 [^4]: https://courses.ischool.berkeley.edu/i290-14/s05/lecture-23/allslides.html
-

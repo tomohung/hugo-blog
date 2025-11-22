@@ -1,6 +1,6 @@
 ---
 date: '2025-11-22T05:43:00+08:00'
-draft: true
+draft: false
 title: '不用連接 Kobo 裝置，直接從 Mac 匯入閱讀筆記到 Obsidian'
 tags: ["教學"]
 ---
@@ -45,19 +45,19 @@ tags: ["教學"]
 
 ```
 /Users/[你的使用者名稱]/Library/Application Support/Kobo/Kobo Desktop Edition/Kobo.sqlite
+# or
+/Users/[你的使用者名稱]/資源庫/Application Support/Kobo/Kobo Desktop Edition/Kobo.sqlite
 ```
 
 ### 顯示隱藏檔案
 
-比較麻煩的是 `Kobo.sqlite` 是隱藏檔案。你可以使用熱鍵顯示所
-
-有隱藏檔：
+比較麻煩的是 `Kobo.sqlite` 是隱藏檔案。你可以使用熱鍵顯示所有隱藏檔：
 
 **Command + Shift + .**
 
 ### 重要提示
 
-- 這個 `Kobo.sqlite` 檔案就等同於 Kobo 裝置上的 `KoboReader.sqlite`
+- 這個 `Kobo.sqlite` 檔案就等同於 Kobo 裝置上的 `Kobo.sqlite`
 - 只要你有使用 Kobo Desktop App 並且已經同步過書籍，所有的劃線和筆記都會在這個檔案裡
 - **不需要連接實體 Kobo 裝置**
 

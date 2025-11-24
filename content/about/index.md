@@ -4,6 +4,8 @@ url: "/about"
 ShowReadingTime: false
 ---
 
+![](/logo.png)
+
 # Version
 
 ## 1.0
